@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>scx-http-routing</artifactId>
-    <version>0.10.0</version>
+    <version>0.10.1</version>
     <packaging>jar</packaging>
 
     <name>SCX HTTP Routing</name>
@@ -88,7 +88,7 @@
     <properties>
 
         <!-- *********************** 以下为依赖包版本 *********************** -->
-        <scx-http.version>0.10.0</scx-http.version>
+        <scx-http.version>0.10.1</scx-http.version>
         <testng.version>7.12.0</testng.version>
 
     </properties>
